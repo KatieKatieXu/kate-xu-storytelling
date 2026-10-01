@@ -2,7 +2,7 @@
 
 # Kate Xu Storytelling
 
-**Turn the hardest-to-explain scenes in an existing presentation into narrative illustrations that match the deck.**
+**Turn hard-to-explain ideas into narrative illustrations for an existing presentation deck.**
 
 [How it works](#how-it-works) · [See the decision experience](#two-clear-decision-moments) · [Install](#installation) · [Use it](#usage)
 
