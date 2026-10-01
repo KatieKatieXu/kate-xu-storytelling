@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kate Xu Storytelling"
+  short_description: "Turn complex deck scenes into matched illustrations"
+  default_prompt: "Use $kate-xu-storytelling to find and illustrate the hardest-to-explain scenes in my existing presentation."
